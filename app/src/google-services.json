@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457280660236",
+    "project_id": "cs4261-programming-assignment",
+    "storage_bucket": "cs4261-programming-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457280660236:android:7bc412b192ee711632df29",
+        "android_client_info": {
+          "package_name": "oliver.cs4261.programming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457280660236-v3gas2km4ae6904v47b7vldqr6u31fb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNFEzexKAFU7HCTL4OLWEP98ZOI1vNb14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457280660236-v3gas2km4ae6904v47b7vldqr6u31fb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
